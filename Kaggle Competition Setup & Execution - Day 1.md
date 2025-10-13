@@ -28,7 +28,14 @@ kaggle competitions download -c playground-series-s5e10
 unzip playground-series-s5e10.zip
 ```
 
-### 3. Core Model Execution Scripts
+### 3. TO START WORKING
+```bash
+cd ~/ml_competitions
+source kaggle_env/bin/activate
+cd ~/kaggle_competitions/road_accident
+```
+
+### 4. Core Model Execution Scripts
 
 **First Model (Random Forest):**
 ```bash
@@ -100,7 +107,7 @@ EOF
 python lightgbm_model.py
 ```
 
-### 4. Submission Commands
+### 5. Submission Commands
 ```bash
 # Submit models to Kaggle
 kaggle competitions submit -c playground-series-s5e10 -f first_model_submission.csv -m "First model - Random Forest"
@@ -110,7 +117,7 @@ kaggle competitions submit -c playground-series-s5e10 -f lightgbm_submission.csv
 kaggle competitions submissions -c playground-series-s5e10
 ```
 
-### 5. Quick Analysis Script
+### 6. Quick Analysis Script
 ```bash
 cat > quick_analysis.py << 'EOF'
 import pandas as pd
