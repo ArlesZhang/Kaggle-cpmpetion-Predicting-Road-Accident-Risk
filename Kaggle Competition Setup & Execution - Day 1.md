@@ -130,6 +130,14 @@ python quick_analysis.py
 - **Submissions Used**: 5/5 daily limit
 - **Gap to 1st**: 0.00027 RMSE
 
+## Tomorrow's Priority Tasks
+
+1. Hyperparameter tuning for that final 0.00027 improvement
+2. Cross-validation implementation for more reliable scores
+3. Ensemble optimization of top 2 models
+4. Feature selection based on importance analysis
+5. Submission limit management (5 per day)
+
 ## 🎯 Key Shell Workflow
 1. **Setup**: `mkdir → venv → pip install`
 2. **Data**: `kaggle download → unzip`
