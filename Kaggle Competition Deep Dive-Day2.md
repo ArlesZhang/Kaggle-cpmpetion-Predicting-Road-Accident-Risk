@@ -188,7 +188,7 @@ EOF
 chmod +x competition_runner.sh
 ```
 
-## 📊 Performance Analysis
+## Performance Analysis
 
 ### Model Comparison Results
 ```
