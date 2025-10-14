@@ -294,4 +294,4 @@ EOF
 ---
 
 *Competition infrastructure built: Automated pipeline, systematic experimentation, reproducible results.*                                                                       
-**Welcome to follow My GitHub **
+**Welcome to follow My GitHub**
