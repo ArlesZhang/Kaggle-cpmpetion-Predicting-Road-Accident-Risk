@@ -67,11 +67,13 @@ This repository and its successors will evolve toward **real competition and res
 
 ### **Future Roadmap (2025 Q4 → 2026 Q2)**
 
+>Focusing on the two core projects of **AI training data automated processing** and **Code Intelligent Agent** will bring greater technical depth and commercial value
+
 | Quarter     | Milestone                                                               |
 | ----------- | ----------------------------------------------------------------------- |
 | **Q4 2025** | Publish enhanced ensemble + Dockerized API demo (`FastAPI + Streamlit`) |
-| **Q1 2026** | Integrate MLIR optimization pass for model inference pipeline           |
-| **Q2 2026** | Extend to distributed training scheduler (Ray + custom MLIR backend)    |
+| **Q1 2026** | Build an end-to-end, industrialized, reusable data pipeline specifically for processing and synthesizing high-quality **code training datasets**          |
+| **Q2 2026** | Build an AI agent prototype with code completion and simple bug fixing capabilities, and demonstrate its practical application value in the form of an IDE plug-in (such as VSCode)    |
 | **Q3 2026** | Submit to **NeurIPS/MLSys workshop**, apply to **ARC Prize 2026**       |
 
 ---
