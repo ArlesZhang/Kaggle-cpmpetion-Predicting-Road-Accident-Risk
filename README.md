@@ -2,7 +2,7 @@
 
 ### **Project Vision**
 
-This repository is the **first milestone** in my 530-day research and system engineering roadmap — a practical experiment in **AI compiler optimization + intelligent ML pipeline design**.
+This repository is the **first milestone** in my 530-day research and system engineering roadmap — a practical experiment in **AI Code Agent + intelligent ML pipeline design**.
 Built around the **Kaggle "Predicting Road Accident Risk"** competition, it serves as a **sandbox for system-level innovation**, bridging research, productization, and global competition readiness.
 
 ---
