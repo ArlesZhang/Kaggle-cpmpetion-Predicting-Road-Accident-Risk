@@ -11,11 +11,11 @@ Built around the **Kaggle "Predicting Road Accident Risk"** competition, it serv
 
 | Goal                          | Description                                                                                           |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 🧹 **Data Engineering**       | Automated data cleansing, transformation, and synthesis for geospatial-temporal datasets.             |
-| 🧠 **Model Optimization**     | Multi-model experimentation with LightGBM, CatBoost, XGBoost, and ensemble fusion (meta-blending).    |
-| ⚙️ **Pipeline Abstraction**   | Modularized ML pipeline supporting automated validation, feature iteration, and deployment readiness. |
-| 🧩 **System Deployability**   | Fully reproducible Docker environment; ready for integration with FastAPI or MLflow.                  |
-| 🚀 **AI Training Efficiency** | Explore compiler-level acceleration (MLIR) and scheduling optimization for training workloads.        |
+| **Data Engineering**       | Automated data cleansing, transformation, and synthesis for geospatial-temporal datasets.             |
+| **Model Optimization**     | Multi-model experimentation with LightGBM, CatBoost, XGBoost, and ensemble fusion (meta-blending).    |
+| **Pipeline Abstraction**   | Modularized ML pipeline supporting automated validation, feature iteration, and deployment readiness. |
+| **System Deployability**   | Fully reproducible Docker environment; ready for integration with FastAPI or MLflow.                  |
+| **AI Training Efficiency** | Explore compiler-level acceleration (MLIR) and scheduling optimization for training workloads.        |
 
 ---
 
@@ -45,7 +45,7 @@ This repository and its successors will evolve toward **real competition and res
 
 ---
 
-### 📈 **Current Progress**
+### **Current Progress**
 
 | Category            | Status                                                                        |
 | ------------------- | ----------------------------------------------------------------------------- |
