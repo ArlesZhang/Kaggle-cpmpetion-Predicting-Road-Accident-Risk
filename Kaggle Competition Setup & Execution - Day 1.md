@@ -7,7 +7,16 @@
 # Create competition workspace
 mkdir -p ~/kaggle_competitions/road_accident
 cd ~/kaggle_competitions/road_accident
+```
 
+Command Highlights
+```bash
+tree -L 3 -h > tree_structure.txt
+find . -type f -iname "*pymysql*"
+ls -ld ~/.kaggle
+chmod 600 ~/.kaggle/kaggle.json
+echo "Hello from Bash!"
+```
 # Create and activate virtual environment
 python3 -m venv kaggle_env
 source kaggle_env/bin/activate
@@ -16,7 +25,7 @@ source kaggle_env/bin/activate
 pip install pandas numpy scikit-learn lightgbm xgboost catboost kaggle
 ```
 
-### 2. Kaggle API Configuration
+# Kaggle API Configuration
 ```bash
 # Setup Kaggle credentials (after downloading kaggle.json)
 mkdir -p ~/.kaggle
