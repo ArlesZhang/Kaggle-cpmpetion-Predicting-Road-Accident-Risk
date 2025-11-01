@@ -6,7 +6,7 @@
 
 **Competition**: Playground Series S5E10 - Predicting Road Accident Risk  
 **Type**: Tabular Regression  
-**Final Rank**: 1021/4754 (Top 21.5%)  
+**Final Rank**: 1021/40831021/4083 (Top 25%)  
 **Best Score**: 0.05581 RMSE (Private), 0.05554 RMSE (Public)  
 **Duration**: 3 days intensive work
 
