@@ -1,6 +1,6 @@
 # Kaggle Competition: Road Accident Risk Prediction - Complete Technical Postmortem
 
->2025.11.1  By Arles.zhang & Gpt5 
+>2025.11.1  by Arles.zhang & Gpt-5 
 
 ## Competition Overview
 
